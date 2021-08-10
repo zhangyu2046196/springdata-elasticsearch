@@ -1,0 +1,10 @@
+server:
+  port: 8098
+
+elasticsearch:
+  hostlist: localhost:1001,localhost:1002,localhost:1003
+
+logging:
+  level:
+    com:
+      youyuan: debug
